@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+.DS_Store
+
+# Downloaded datasets, model weights, and local caches
+data/
+datasets/
+.cache/
+*.pt
+*.pth
+*.ckpt
+
+# Notebook scratch files
+.ipynb_checkpoints/
+
