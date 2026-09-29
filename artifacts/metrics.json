@@ -1,0 +1,8 @@
+{
+  "dataset": "CIFAR-10 test",
+  "model": "ViT-B/32",
+  "samples": 10000,
+  "top1_accuracy_percent": 89.86,
+  "top5_accuracy_percent": 99.63,
+  "provenance": "historical executed notebook"
+}
